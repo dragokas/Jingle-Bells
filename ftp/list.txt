@@ -1,0 +1,16 @@
+sound/jinge/Festive_Cheer2.mp3
+sound/jinge/Jingle_10_mario.mp3
+sound/jinge/Jingle_11_voice_w.mp3
+sound/jinge/Jingle_12_ding.mp3
+sound/jinge/Jingle_13_ding_range.mp3
+sound/jinge/Jingle_15_dog.mp3
+sound/jinge/Jingle_16_voice_m.mp3
+sound/jinge/Jingle_17_RMB.mp3
+sound/jinge/Jingle_1_ding.mp3
+sound/jinge/Jingle_2_ding.mp3
+sound/jinge/Jingle_3_progressive.mp3
+sound/jinge/Jingle_4_ding+.mp3
+sound/jinge/Jingle_5_ding.mp3
+sound/jinge/Jingle_8_bit.mp3
+sound/jinge/Jingle_9_idiot.mp3
+sound/jinge/Winter_Wonder2.mp3
